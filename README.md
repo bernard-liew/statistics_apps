@@ -1,6 +1,6 @@
 # statistics_apps
 
-# Statistics Applets <!-- omit in toc -->
+# Statistics Applets ![visitors](https://visitor-badge.glitch.me/badge?page_id=bernard-liew.statistics_apps)<!-- omit in toc -->
 ![logo](./output/applets.png)
 ### A curated repository of applets for learning statistics  <!-- omit in toc -->
 #### Always a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes: 
@@ -16,3 +16,7 @@
 * [Statlets](https://www.usu.edu/math/schneit/CTIS/) by Kady Schneiter, Utah State University.
 
 * [whfreeman](http://bcs.whfreeman.com/webpub/statistics/ips9e/9781319013387/statisticalapplets/statisticalapplets.html).
+
+* [Conceptual Learning with Interactive Applets](https://melbapplets.ms.unimelb.edu.au/tag/statistics/) University of Melbourne.
+
+* [Shiny Stats](https://egon.stats.ucl.ac.uk/ug-projects/UCLShinyStats/), University College of London.
